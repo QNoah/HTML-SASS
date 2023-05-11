@@ -1,3 +1,4 @@
 Only thing necassary to fill in therminal is:
 
-gulp watchSass
+npm i 
+npm run gulp watchSass
